@@ -26,7 +26,7 @@ This example shows on how fast one could deploy a cloud (PaaS) managed ToDo app 
 - step one - clone the repo: `git clone git@github.com:IBM-Cloud/todo-apps.git`
 - step two - choose your language - here we choose java: `cd todo-apps/java/bluemix-todo-app`
 - step three - build the app and run it locally: `mvn -P run` - check it here: http://localhost:8080
-- step four - bring it to the cloud - you would need an IBM Cloud account:
+- step four - bring it to the cloud - you would need an IBM Cloud account - see the steps below
 
 ### cloud deployment
 
