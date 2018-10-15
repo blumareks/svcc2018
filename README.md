@@ -2,7 +2,7 @@
 This is repository on Containers, Serverless and the Cloud, and how it all is connected together.
 If you like it, give me a star ⭐️ !
 
-During my workshop at the SVCC in San Jose in October I will go over the following examples:
+During my workshop at the SVCC in San Jose in October 2018 we check the following examples - check out my presentations (attached in this repo):
 
 - Serverless: https://console.bluemix.net/docs/openwhisk/deploy_templates.html#hello-world-template https://console.bluemix.net/docs/openwhisk/openwhisk_actions.html#openwhisk_actions
 - PaaS: https://github.com/IBM-Cloud/todo-apps
